@@ -1,0 +1,136 @@
+[
+  {
+    "customerName": "Alice Smith",
+    "bookingCount": 5,
+    "bookings": [
+      {
+        "bookingId": "438f580e-c1a0-489f-8d0f-a15ac10c54c3",
+        "customerName": "Alice Smith",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "15-06-2024",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "bookingDate": "17-05-2024 12:42:27",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "b5ed433b-ba61-4956-8bf0-855e8e740b8b",
+        "customerName": "Alice Smith",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "20-06-2024",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "bookingDate": "17-05-2024 12:47:40",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "bbbed511-73b1-481f-8df0-cf34e35b20dd",
+        "customerName": "Alice Smith",
+        "roomId": 5,
+        "roomName": "Meeting Room B",
+        "date": "12-06-2024",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "bookingDate": "17-05-2024 12:48:25",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "b1de2eda-bc44-4327-8c09-d33d720b03c3",
+        "customerName": "Alice Smith",
+        "roomId": 2,
+        "roomName": "Conference Room B",
+        "date": "12-06-2024",
+        "startTime": "11:00",
+        "endTime": "13:00",
+        "bookingDate": "17-05-2024 12:49:10",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "7bb91749-ac98-447d-8607-95b260d52510",
+        "customerName": "Alice Smith",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "25-06-2024",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "bookingDate": "17-05-2024 12:50:58",
+        "bookedStatus": "Confirmed"
+      }
+    ]
+  },
+  {
+    "customerName": "Bob Johnson",
+    "bookingCount": 2,
+    "bookings": [
+      {
+        "bookingId": "08cfd3fd-0142-45a6-bdb5-2a3d83aec00b",
+        "customerName": "Bob Johnson",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "10-06-2024",
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "bookingDate": "17-05-2024 12:44:05",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "15d864b2-035c-4825-9e0a-657a41e5e686",
+        "customerName": "Bob Johnson",
+        "roomId": 3,
+        "roomName": "Boardroom A",
+        "date": "12-06-2024",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "bookingDate": "17-05-2024 12:52:15",
+        "bookedStatus": "Confirmed"
+      }
+    ]
+  },
+  {
+    "customerName": "Charlie Brown",
+    "bookingCount": 1,
+    "bookings": [
+      {
+        "bookingId": "0169c656-4331-477b-9e54-8a00c5b7a243",
+        "customerName": "Charlie Brown",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "24-06-2024",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "bookingDate": "17-05-2024 12:45:08",
+        "bookedStatus": "Confirmed"
+      }
+    ]
+  },
+  {
+    "customerName": "David Miller",
+    "bookingCount": 2,
+    "bookings": [
+      {
+        "bookingId": "584331a0-cdb9-4ef8-9edc-e98ef9d66850",
+        "customerName": "David Miller",
+        "roomId": 1,
+        "roomName": "Conference Room A",
+        "date": "10-06-2024",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "bookingDate": "17-05-2024 12:46:17",
+        "bookedStatus": "Confirmed"
+      },
+      {
+        "bookingId": "abd12e1b-9872-4084-a4a6-febcde250aaf",
+        "customerName": "David Miller",
+        "roomId": 2,
+        "roomName": "Conference Room B",
+        "date": "30-05-2024",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "bookingDate": "17-05-2024 12:50:16",
+        "bookedStatus": "Confirmed"
+      }
+    ]
+  }
+]

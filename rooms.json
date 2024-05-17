@@ -1,0 +1,65 @@
+[
+  {
+    "roomId": 1,
+    "roomName": "Conference Room A",
+    "seatsAvailable": 50,
+    "amenities": [
+      "Projector",
+      "Whiteboard",
+      "WiFi",
+      "Tea/Coffee"
+    ],
+    "pricePerHour": 500,
+    "bookedStatus": false
+  },
+  {
+    "roomId": 2,
+    "roomName": "Conference Room B",
+    "seatsAvailable": 20,
+    "amenities": [
+      "Conference Phone",
+      "TV",
+      "WiFi",
+      "Snacks"
+    ],
+    "pricePerHour": 400,
+    "bookedStatus": false
+  },
+  {
+    "roomId": 3,
+    "roomName": "Boardroom A",
+    "seatsAvailable": 30,
+    "amenities": [
+      "Projector",
+      "Flipchart",
+      "Tea/Coffee",
+      "Water Dispenser"
+    ],
+    "pricePerHour": 600,
+    "bookedStatus": false
+  },
+  {
+    "roomId": 4,
+    "roomName": "Meeting Room A",
+    "seatsAvailable": 15,
+    "amenities": [
+      "Whiteboard",
+      "WiFi",
+      "Tea/Coffee"
+    ],
+    "pricePerHour": 300,
+    "bookedStatus": false
+  },
+  {
+    "roomId": 5,
+    "roomName": "Meeting Room B",
+    "seatsAvailable": 10,
+    "amenities": [
+      "Projector",
+      "WiFi",
+      "Tea/Coffee"
+    ],
+    "pricePerHour": 250,
+    "bookedStatus": false
+  }
+]
